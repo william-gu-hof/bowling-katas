@@ -1,0 +1,10 @@
+{
+    "verbose": true,
+    "testMatch": [ 
+        "**/tests/**/*.[jt]s?(x)", 
+        "**/?(*.)+(spec|test).[jt]s?(x)" 
+    ],
+    "transform": {
+        "^.+\\.(js|jsx)$": "babel-jest"
+    }
+}

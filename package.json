@@ -1,0 +1,29 @@
+{
+  "name": "bowling-game",
+  "version": "1.0.0",
+  "description": "bowling game katas",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/william-gu-hof/bowling-katas.git"
+  },
+  "author": "William Gu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/william-gu-hof/bowling-katas/issues"
+  },
+  "homepage": "https://github.com/william-gu-hof/bowling-katas#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "@babel/preset-env": "^7.23.3",
+    "babel-jest": "^29.7.0"
+  }
+}
